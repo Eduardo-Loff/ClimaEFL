@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Clima</title>
+    
+    <link rel="stylesheet" href="CSS/styles.css">
+    <script src="JS/index.js" defer></script>
+</head>
+<body>
+    
+    <form class="bucact" method="post" id="formulario">
+        <div class="busca">
+            <input type="text" id="cidade" placeholder="Insira a cidade..." required>
+            <button class="search-button" type="submit">
+                <span class="search-icon">🔍</span>
+            </button>
+        </div>
+    </form>
+
+    <div class="info">
+        <div class="principal">
+            <div class="pb1">
+                <img id="icon" src="https://openweathermap.org/img/wn/04d@2x.png">
+                <p id="estado" class="estado">Nublado</p>
+            </div>
+            <div class="pb2">
+                <h1 id="city" class="city">Santo Angelo, BR</h1>
+                <p id="graus" class="graus">32°C</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="temperatura">  
+        <div class="temp">
+            <hr>
+            <p>Temperatura: <span class="mint">22°C</span> |<span class="maxt"> 35°C</span></p>
+            <hr>
+        </div>
+    </div> 
+
+    <div class="info2">
+        <div class="i2">
+            <div class="box1">
+                <hr>
+                <p class="um">Umidade: 40%</p>
+                <hr>
+                <p class="vento">Vento: 20km/h</p>
+                <hr>
+            </div>    
+        </div>
+    </div>   
+
+    <footer>
+        <p>Programado por: Eduardo Felipe</p>
+        <p>*Dados fornecidos por <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap</a>.</p>
+        <p><a href="https://github.com/Eduardo-Loff/WeatherApp-Projeto" target="_blank">Acesse o repositorio</a> do projeto</p>
+        <p>Versão 0.2 | Update: 07/03/2025</p>
+    </footer>
+
+</body>
+</html>
