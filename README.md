@@ -9,14 +9,14 @@ de uma cidade, ou localidade. O projeto funciona tanto em dispostivos de telas m
 ## Algumas Screenshots do projeto.
 
 Imagem 1.0 - Tela Inicial Desktop:
-![Screenshot](![image](https://github.com/user-attachments/assets/1d88d703-cf5b-4656-b7e1-5e8faab7b3f8)
+(![image](https://github.com/user-attachments/assets/1d88d703-cf5b-4656-b7e1-5e8faab7b3f8)
 Imagem 1.1 - Tela Com as informações Desktop:
-![Screenshot](![image](https://github.com/user-attachments/assets/bcb266a4-1ad9-4a06-8251-da68f9326e4a)
+(![image](https://github.com/user-attachments/assets/bcb266a4-1ad9-4a06-8251-da68f9326e4a)
 
 Imagem 2.0 - Tela Inicial Mobile:
-![Screenshot](![image](https://github.com/user-attachments/assets/b579574d-b961-4f00-aa7d-addbd2852502)
+(![image](https://github.com/user-attachments/assets/b579574d-b961-4f00-aa7d-addbd2852502)
 Imagem 2.1 - Tela Com as informações Mobile: 
-![Screenshot](![image](https://github.com/user-attachments/assets/34be2ef7-3d35-4902-b593-e26db23222b6)
+(![image](https://github.com/user-attachments/assets/34be2ef7-3d35-4902-b593-e26db23222b6)
 
 ## Uso do Projeto
 
