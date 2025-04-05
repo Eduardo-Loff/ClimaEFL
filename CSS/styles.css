@@ -2,7 +2,7 @@
 
 :root{
     font-family: sans-serif;
-    --bg: linear-gradient(90deg, #cdffd8, #9db9ff);
+    --bg: skyblue;
 }
 
 body{
@@ -27,12 +27,12 @@ body{
 .busca {
     display: flex;
     align-items: center;
-    border: 2px solid #8A2BE2; /* Cor da borda */
-    border-radius: 25px; /* Bordas arredondadas */
+    border: 2px solid #8A2BE2; 
+    border-radius: 25px; 
     padding: 5px;
     margin: 15px auto;
-    background: linear-gradient(to right, #a8e6cf, #dcedc1); /* Gradiente de fundo */
-    width: 300px; /* Largura da barra de pesquisa */
+    background: var(--bg); 
+    width: 300px; 
 }
 
 .busca input {
@@ -188,7 +188,7 @@ footer p{
 
     :root{
         font-family: Arial, Helvetica, sans-serif;
-        --bg: linear-gradient(90deg, #cdffd8, #9db9ff);
+        --bg: skyblue;
         margin: 0;
         padding: 0;
     }
